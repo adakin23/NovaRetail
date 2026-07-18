@@ -1,0 +1,100 @@
+label,CustomerID,TransactionDate,ProductCategory,PurchaseAmount,CustomerAgeGroup,CustomerGender,CustomerRegion,CustomerSatisfaction,RetailChannel
+Promising,12345,2023-01-15,Electronics,349.99,25-34,Male,North,4,Online
+Growth,12346,2023-01-16,Home & Garden,199.99,35-44,Female,West,3,Physical Store
+Promising,12347,2023-01-17,Clothing & Fashion,89.99,18-24,Male,South,5,Online
+Decline,12348,2023-01-18,Groceries & Food,59.99,45-54,Female,East,2,Physical Store
+Stable,12349,2023-01-19,Books & Media,29.99,25-34,Male,North,4,Online
+Promising,12350,2023-01-20,Toys & Games,129.99,25-34,Female,North,5,Online
+Growth,12350,2023-01-20,Health & Beauty,119.99,35-44,Female,North,5,Online
+Decline,12500,2023-01-22,Health & Beauty,23.99,18-24,Female,South,1,Physical Store
+Stable,12350,2023-01-20,Sports & Outdoors,23.99,25-34,Female,West,4,Online
+Promising,12350,2023-02-01,Clothing & Fashion,249.99,25-34,Female,South,5,Physical Store
+Growth,12350,2023-01-20,Electronics,299.99,35-44,Female,West,5,Physical Store
+Decline,12350,2023-01-20,Sports & Outdoors,239.99,35-44,Female,West,3,Physical Store
+Stable,12350,2023-01-20,Health & Beauty,45.99,35-44,Female,West,4,Physical Store
+Promising,23456,2023-02-10,Health & Beauty,54.99,25-34,Female,West,5,Online
+Growth,12350,2023-02-12,Health & Beauty,219.99,25-34,Female,South,4,Physical Store
+Promising,12351,2023-01-21,Electronics,459.99,18-24,Male,West,4,Physical Store
+Growth,12351,2023-01-21,Sports & Outdoors,249.99,18-24,Male,South,4,Physical Store
+Decline,12501,2023-01-23,Electronics,549.99,45-54,Male,East,1,Physical Store
+Stable,12351,2023-01-21,Health & Beauty,19.99,45-54,Male,East,5,Physical Store
+Promising,12351,2023-02-02,Electronics,299.99,35-44,Male,North,5,Online
+Growth,12351,2023-01-21,Home & Garden,399.99,25-34,Male,North,4,Online
+Decline,12351,2023-01-21,Toys & Games,199.99,25-34,Male,South,1,Online
+Stable,12351,2023-01-21,Home & Garden,23.99,45-54,Male,South,3,Online
+Promising,23457,2023-02-12,Toys & Games,24.99,18-24,Male,South,4,Physical Store
+Growth,12351,2023-02-13,Sports & Outdoors,459.99,35-44,Male,West,5,Online
+Promising,12352,2023-01-22,Clothing & Fashion,99.99,35-44,Female,East,5,Online
+Growth,12352,2023-01-22,Electronics,299.99,25-34,Female,West,5,Online
+Decline,12502,2023-01-24,Clothing & Fashion,59.99,25-34,Male,North,1,Online
+Stable,12352,2023-01-22,Health & Beauty,29.99,35-44,Female,South,4,Online
+Promising,12352,2023-02-03,Home & Garden,399.99,45-54,Female,East,4,Physical Store
+Growth,12352,2023-01-22,Home & Garden,199.99,45-54,Female,South,3,Physical Store
+Decline,12352,2023-01-22,Health & Beauty,129.99,55+,Female,East,2,Physical Store
+Stable,12352,2023-01-22,Toys & Games,35.99,18-24,Male,East,5,Physical Store
+Promising,23458,2023-02-13,Sports & Outdoors,119.99,35-44,Female,East,3,Online
+Growth,12352,2023-02-14,Toys & Games,149.99,25-34,Female,East,3,Physical Store
+Promising,12353,2023-01-23,Books & Media,34.99,25-34,Male,South,4,Online
+Growth,12353,2023-01-23,Home & Garden,89.99,45-54,Male,East,4,Physical Store
+Decline,12503,2023-01-25,Clothing & Fashion,119.99,35-44,Female,West,2,Online
+Stable,12353,2023-01-23,Home & Garden,15.99,18-24,Male,North,3,Physical Store
+Promising,12353,2023-02-04,Sports & Outdoors,99.99,18-24,Male,West,5,Online
+Growth,12353,2023-01-23,Electronics,599.99,25-34,Male,North,5,Online
+Decline,12353,2023-01-23,Home & Garden,299.99,25-34,Male,North,2,Online
+Stable,12353,2023-01-23,Sports & Outdoors,69.99,25-34,Female,North,4,Online
+Promising,23459,2023-02-14,Other,399.99,45-54,Male,North,4,Physical Store
+Growth,12353,2023-02-15,Home & Garden,299.99,35-44,Male,North,4,Online
+Promising,12354,2023-01-24,Health & Beauty,89.99,35-44,Female,North,5,Physical Store
+Growth,12354,2023-01-24,Clothing & Fashion,99.99,25-34,Female,North,5,Online
+Decline,12504,2023-01-26,Groceries & Food,45.99,55+,Female,South,2,Physical Store
+Stable,12354,2023-01-24,Other,49.99,25-34,Female,East,4,Online
+Promising,12354,2023-02-05,Books & Media,19.99,25-34,Female,North,4,Physical Store
+Growth,12354,2023-01-24,Clothing & Fashion,79.99,18-24,Male,East,4,Physical Store
+Decline,12354,2023-01-24,Electronics,999.99,45-54,Female,West,1,Physical Store
+Stable,12354,2023-01-24,Clothing & Fashion,99.99,18-24,Female,South,3,Physical Store
+Promising,23460,2023-02-15,Home & Garden,299.99,18-24,Female,South,5,Online
+Growth,12354,2023-02-16,Clothing & Fashion,89.99,18-24,Female,South,5,Physical Store
+Promising,12355,2023-01-25,Groceries & Food,79.99,18-24,Male,East,4,Online
+Growth,12355,2023-01-25,Electronics,199.99,35-44,Male,South,4,Physical Store
+Decline,12505,2023-01-27,Toys & Games,29.99,25-34,Male,East,1,Physical Store
+Stable,12355,2023-01-25,Books & Media,12.99,35-44,Male,West,5,Physical Store
+Promising,12355,2023-02-06,Clothing & Fashion,149.99,35-44,Male,South,5,Online
+Growth,12355,2023-01-25,Home & Garden,249.99,35-44,Female,West,5,Online
+Decline,12355,2023-01-25,Groceries & Food,49.99,35-44,Male,South,2,Online
+Stable,12355,2023-01-25,Electronics,299.99,35-44,Male,West,4,Physical Store
+Promising,23461,2023-02-16,Electronics,129.99,25-34,Male,East,4,Physical Store
+Growth,12355,2023-02-17,Health & Beauty,199.99,45-54,Female,East,4,Online
+Promising,12356,2023-01-26,Toys & Games,199.99,25-34,Female,West,5,Physical Store
+Growth,12356,2023-01-26,Books & Media,29.99,18-24,Female,West,3,Online
+Decline,12506,2023-01-28,Other,89.99,35-44,Female,North,1,Online
+Stable,12356,2023-01-26,Electronics,99.99,45-54,Female,South,4,Online
+Promising,12356,2023-02-07,Electronics,449.99,45-54,Female,East,5,Physical Store
+Growth,12356,2023-01-26,Books & Media,19.99,25-34,Male,North,4,Physical Store
+Decline,12356,2023-01-26,Clothing & Fashion,159.99,25-34,Female,East,3,Physical Store
+Stable,12356,2023-01-26,Books & Media,15.99,45-54,Male,East,5,Online
+Promising,23462,2023-02-17,Books & Media,19.99,35-44,Female,West,5,Online
+Growth,12356,2023-02-18,Electronics,549.99,35-44,Male,West,5,Physical Store
+Promising,12357,2023-01-27,Electronics,599.99,18-24,Male,South,4,Online
+Growth,12357,2023-01-27,Health & Beauty,129.99,35-44,Male,East,5,Online
+Decline,12507,2023-01-29,Books & Media,129.99,18-24,Male,South,1,Physical Store
+Stable,12357,2023-01-27,Groceries & Food,18.99,25-34,Male,North,4,Physical Store
+Promising,12357,2023-02-08,Home & Garden,129.99,18-24,Male,West,4,Online
+Growth,12357,2023-01-27,Groceries & Food,39.99,45-54,Female,South,4,Online
+Decline,12357,2023-01-27,Sports & Outdoors,249.99,35-44,Male,North,2,Physical Store
+Stable,12357,2023-01-27,Groceries & Food,45.99,25-34,Female,North,4,Physical Store
+Promising,23463,2023-02-18,Health & Beauty,79.99,45-54,Male,South,3,Online
+Growth,12357,2023-02-19,Groceries & Food,99.99,18-24,Male,North,3,Physical Store
+Promising,12358,2023-01-28,Clothing & Fashion,129.99,35-44,Female,North,5,Online
+Growth,12358,2023-01-28,Clothing & Fashion,99.99,25-34,Female,North,4,Physical Store
+Decline,12508,2023-01-30,Health & Beauty,99.99,55+,Female,West,1,Online
+Stable,12358,2023-01-28,Clothing & Fashion,39.99,35-44,Female,East,4,Online
+Promising,12358,2023-02-09,Sports & Outdoors,49.99,35-44,Female,North,5,Online
+Growth,12358,2023-01-28,Electronics,899.99,25-34,Male,North,5,Physical Store
+Decline,12358,2023-01-28,Toys & Games,109.99,45-54,Female,West,1,Online
+Stable,12358,2023-01-28,Clothing & Fashion,39.99,35-44,Male,South,4,Online
+Promising,23464,2023-02-19,Groceries & Food,39.99,18-24,Female,East,4,Physical Store
+Growth,12358,2023-02-20,Toys & Games,199.99,25-34,Female,South,5,Online
+Promising,12359,2023-01-29,Books & Media,69.99,25-34,Male,East,4,Physical Store
+Growth,12359,2023-01-29,Groceries & Food,49.99,18-24,Male,South,3,Online
+Stable,12359,2023-01-29,Sports & Outdoors,24.99,18-24,Male,West,3,Physical Store
+Promising,12359,2023-02-10,Books & Media,39.99,25-34,Male,South,5,Physical Store
