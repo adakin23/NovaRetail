@@ -136,10 +136,13 @@ if start_date > end_date:
 
 # ---------------------------------------------------------------- STEP 5 ----
 def apply_filter(frame: pd.DataFrame, column: str, selection: list) -> pd.DataFrame:
-    """Apply a multiselect filter unless 'All' (or nothing) is selected."""
-    if not selection or ALL in selection:
+    """Apply a multiselect filter. 'All' only applies when nothing else is picked."""
+    if not selection:
         return frame
-    return frame[frame[column].astype(str).isin(selection)]
+    picks = [s for s in selection if s != ALL]
+    if not picks:
+        return frame
+    return frame[frame[column].astype(str).isin(picks)]
 
 
 fdf = df.copy()
